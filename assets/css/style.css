@@ -76,22 +76,20 @@ nav li{
     width: 75%;
     margin: auto;
     display: flex;
-    flex-direction: row;
+    flex-direction: row;   
+}
+.main1{
     margin-top: 50px;
-   
-    
 }
 /* .content{
     align-items: ;
     
 } */
-.details{
-    margin-right: 400px;
-}
+
 .details h3{
     font-size: 42px;
     color: #2549D3;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 15px;
 }
 .buttons2{
@@ -146,8 +144,40 @@ nav li{
     font-weight: 600;
 }
 .container{
-    background-color: coral;
-    width: 75%;
+    
+    width: 70%;
     margin: auto;
  
+}
+.products h1{
+    margin-bottom: 5px;
+    color: #0F298B;
+}
+.productHead{
+    text-align: center;
+}
+.productHead h1{
+    color: #0F298B;
+}
+.productContent{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cardProduct{
+   background-color: #FFFFFF;
+   margin: 40px 20px 0;
+   height: 40vh;
+   width: 300px;
+   padding: 70px 30px 50px;
+   flex-direction: column;
+   text-align: center;
+   justify-content: center;
+   border-radius: 15px;
+   
+   
+}
+.cardProduct h2{
+    margin-top: 20px 0 30px;
 }
