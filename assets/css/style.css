@@ -14,10 +14,11 @@ Font Styles: Space Grotesk, Oleo Script */
 body{
     background-color: #FAFAFA;
     font-family: 'Space Grotesk';
+    font-size: 20px;
 }
 header{
     /* background-color: burlywood; */
-    width: 85%;
+    width: 80%;
     margin: auto;
 
 }
@@ -64,4 +65,39 @@ nav li{
     margin: auto;
     margin-top: 10px;
    
+}
+
+/* first container */
+.main{
+    /* background-color: coral; */
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+}
+/* .content{
+    align-items: ;
+    
+} */
+.details{
+    margin-right: 300px;
+}
+.details h3{
+    font-size: 42px;
+    color: #2549D3;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.content button{
+    margin: 30px 5px 10px 0;
+    background-color: #0F298B; 
+    border: none;
+    border-radius: 10px;
+    color: #FAFAFA;
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: 600;
 }
