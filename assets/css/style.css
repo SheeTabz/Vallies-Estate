@@ -16,8 +16,8 @@ body{
     font-family: 'Space Grotesk';
 }
 header{
-    background-color: burlywood;
-    width: 90%;
+    /* background-color: burlywood; */
+    width: 85%;
     margin: auto;
 
 }
@@ -28,6 +28,7 @@ nav
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 nav ul{
     display: flex;
@@ -37,11 +38,30 @@ nav li{
     align-items: center;
     list-style: none;
     margin-left: 70px;
-    font-size: 1.5rem;
+    font-size: 18px;
 }
 .logo{
     font-weight: 500;
     font-family: 'Oleo Script';
     font-size: 2rem;
 }
-.started button{}
+/* .started {
+    background-color: #2549D3;
+    
+} */
+ nav button{
+    background-color: #2549D3; 
+    border: none;
+    border-radius: 10px;
+    color: #FAFAFA;
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* .horizontal{
+    
+    width: 96%;
+    margin: auto;
+    margin-top: 10px;
+} */
