@@ -90,9 +90,12 @@ nav li{
     font-weight: 500;
     margin-bottom: 15px;
 }
+.buttons2{
+    background-clip: content-box;
+}
 .content button{
-    margin: 30px 5px 10px 0;
-    background-color: #0F298B; 
+    margin: 30px 40px 10px 0;
+    background-color: #2549D3; 
     border: none;
     border-radius: 10px;
     color: #FAFAFA;
@@ -100,4 +103,7 @@ nav li{
     width: 150px;
     font-size: 18px;
     font-weight: 600;
+}
+.fa{
+ 
 }
