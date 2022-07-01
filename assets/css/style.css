@@ -104,6 +104,11 @@ nav li{
     font-size: 18px;
     font-weight: 600;
 }
-.fa{
- 
+
+.propertyDet{
+    background-color: burlywood;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
 }
