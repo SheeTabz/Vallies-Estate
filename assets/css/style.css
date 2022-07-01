@@ -13,6 +13,7 @@ Font Styles: Space Grotesk, Oleo Script */
 }
 body{
     background-color: #FAFAFA;
+    font-family: 'Space Grotesk';
 }
 header{
     background-color: burlywood;
@@ -33,6 +34,14 @@ nav ul{
     flex-direction: row; 
 }
 nav li{
+    align-items: center;
     list-style: none;
-    justify-content: space-
+    margin-left: 70px;
+    font-size: 1.5rem;
 }
+.logo{
+    font-weight: 500;
+    font-family: 'Oleo Script';
+    font-size: 2rem;
+}
+.started button{}
