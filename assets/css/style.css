@@ -16,6 +16,9 @@ body{
     font-family: 'Space Grotesk';
     font-size: 20px;
 }
+.firstpage{
+    height: 100vh;
+}
 header{
     /* background-color: burlywood; */
     width: 75%;
@@ -61,7 +64,7 @@ nav li{
     font-weight: 600;
 }
 .horizontal{
-    width: 95%;
+    width: 85%;
     margin: auto;
     margin-top: 10px;
    
@@ -75,6 +78,7 @@ nav li{
     display: flex;
     flex-direction: row;
     margin-top: 50px;
+   
     
 }
 /* .content{
@@ -109,7 +113,7 @@ nav li{
     background-color:#FFFFFF;
     width: 70%;
     margin: auto;
-    margin-top: 70px;
+    margin-top: 100px;
     height: 10vh;
     border-radius: 15px;
     box-shadow: 4px 15px #F1F3F8;
@@ -140,4 +144,10 @@ nav li{
     width: 150px;
     font-size: 18px;
     font-weight: 600;
+}
+.container{
+    background-color: coral;
+    width: 75%;
+    margin: auto;
+ 
 }
