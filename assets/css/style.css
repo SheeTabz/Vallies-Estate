@@ -1,0 +1,38 @@
+/* Primary Colors: #2549D3, #0F298B, #FAFAFA
+Font Styles: Space Grotesk, Oleo Script */
+:root{
+    --background: #2549D3;
+    --button: #0F298B;
+    --body:#FAFAFA;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FAFAFA;
+}
+header{
+    background-color: burlywood;
+    width: 90%;
+    margin: auto;
+
+}
+nav
+{
+    padding-top: 40px;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    flex-direction: row; 
+}
+nav li{
+    list-style: none;
+    justify-content: space-
+}
