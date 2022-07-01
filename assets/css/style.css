@@ -18,7 +18,7 @@ body{
 }
 header{
     /* background-color: burlywood; */
-    width: 80%;
+    width: 75%;
     margin: auto;
 
 }
@@ -70,7 +70,7 @@ nav li{
 /* first container */
 .main{
     /* background-color: coral; */
-    width: 80%;
+    width: 75%;
     margin: auto;
     display: flex;
     flex-direction: row;
@@ -82,7 +82,7 @@ nav li{
     
 } */
 .details{
-    margin-right: 300px;
+    margin-right: 400px;
 }
 .details h3{
     font-size: 42px;
