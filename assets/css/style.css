@@ -144,7 +144,7 @@ nav li{
     font-weight: 600;
 }
 .container{
-    
+    height: 80vh;
     width: 70%;
     margin: auto;
  
@@ -181,4 +181,22 @@ nav li{
 .cardProduct h2{
     margin-top: 20px 0 30px;
 }
-main
+.main2{
+    height: 70vh;
+    justify-content: space-between;
+}
+.checked{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    justify-content: space-between;
+
+}
+.checked p{
+    font-weight: 600;
+}
+.checked .fa{
+    color: #0F298B;
+}
+
