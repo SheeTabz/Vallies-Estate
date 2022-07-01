@@ -106,9 +106,38 @@ nav li{
 }
 
 .propertyDet{
-    background-color: burlywood;
+    background-color:#FFFFFF;
     width: 70%;
     margin: auto;
+    margin-top: 70px;
+    height: 10vh;
+    border-radius: 15px;
+    box-shadow: 4px 15px #F1F3F8;
+   
+}
+.propContent{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    margin:  0 50px;
+    padding-top: 20px;
+}
+.cont label{
+    color: #0F298B;
+    font-weight: 600;
+    
+}
+.cont p{
+    color: black;
+    opacity: 0.5;
+}
+.cont button{
+    background-color: #2549D3; 
+    border: none;
+    border-radius: 10px;
+    color: #FAFAFA;
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: 600;
 }
