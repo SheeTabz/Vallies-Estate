@@ -68,6 +68,8 @@ If you need to contribute to this project follow the steps below:<br>
     background-clip: content-box;
 }
 ```
+### Author
+[TABITHA MURIITHI](https://github.com/SheeTabz)
 
 
 
