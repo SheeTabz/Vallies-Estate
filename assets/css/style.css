@@ -254,3 +254,37 @@ nav li{
 .customers h6{
     padding: 6px 0 0;
 }
+
+/* footer section */
+footer{
+    background-color: #0F298B;
+    height: 40vh;
+    width: 75%;
+    margin: auto;
+}
+.footerContent{
+    
+    padding: 25px 10px 0 100px;
+}
+.footerContent, .estateAbouts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+.list, .vallie{
+    
+    width: 300px;
+    height: 20vh;
+    color: #FAFAFA;
+}
+.list ul{
+    margin-top: 20px;
+}
+.list ul>li{
+   list-style: none;
+   margin-top: 10px;
+   opacity: 0.8;
+}
+
