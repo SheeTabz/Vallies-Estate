@@ -88,7 +88,7 @@ nav li{
 
 .details h3{
     font-size: 42px;
-    color: #2549D3;
+    color: #0F298B;
     font-weight: 600;
     margin-bottom: 15px;
 }
@@ -114,7 +114,8 @@ nav li{
     margin-top: 100px;
     height: 10vh;
     border-radius: 15px;
-    box-shadow: 4px 15px #F1F3F8;
+    box-shadow: 12px 15px rgba(0,0,0,0.10);
+
    
 }
 .propContent{
@@ -144,7 +145,7 @@ nav li{
     font-weight: 600;
 }
 .container{
-    height: 80vh;
+    height: 85vh;
     width: 70%;
     margin: auto;
  
@@ -153,35 +154,38 @@ nav li{
     margin-bottom: 5px;
     color: #0F298B;
 }
-.productHead{
+.containerHead{
     text-align: center;
 }
-.productHead h1{
+.containerHead h1{
     color: #0F298B;
 }
-.productContent{
+.containerContent{
 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.cardProduct{
-   background-color: #FFFFFF;
-   margin: 40px 20px 0;
+.card{
+    background-color: #FFFFFF;
+    margin: 40px 20px 0;
+}
+.cardContent1{
+   
    height: 40vh;
    width: 300px;
    padding: 70px 30px 50px;
    flex-direction: column;
    text-align: center;
    justify-content: center;
-   border-radius: 15px;
-   
-   
+   border-radius: 15px; 
 }
-.cardProduct h2{
+
+.cardContent h2{
     margin-top: 20px 0 30px;
 }
 .main2{
+    background-color: coral;
     height: 70vh;
     justify-content: space-between;
 }
