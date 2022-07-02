@@ -6,16 +6,24 @@ Font Styles: Space Grotesk, Oleo Script */
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+   
+}
 body{
     background-color: #FAFAFA;
     font-family: 'Space Grotesk';
     font-size: 20px;
+    
 }
 
 .firstpage{
     height: 100vh;
 }
-
+a{
+    text-decoration: none;
+    color: inherit;
+}
 /* Styling the navigation bar */
 header{
     width: 75%;
