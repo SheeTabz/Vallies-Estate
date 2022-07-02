@@ -145,7 +145,7 @@ nav li{
     font-weight: 600;
 }
 .container{
-    height: 85vh;
+    height: 80vh;
     width: 70%;
     margin: auto;
  
@@ -186,7 +186,7 @@ nav li{
 }
 .main2{
    
-    height: 70vh;
+    height: 55vh;
     justify-content: space-between;
 }
 .flexItems{
@@ -204,4 +204,34 @@ nav li{
     color: #0F298B;
 }
 /* Our Propertie section */
-
+.cards2{
+    /* height: 40vh; */
+  
+    margin-top: 30px;
+}
+.cardContent2{
+    height: 30vh;
+    border-radius: 5px;
+    
+}
+.leftProp h2{
+  font-size: 20px;
+}
+.spaceProp{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.spaceProp p{
+  color: black;
+  opacity: 0.6;
+  font-size: 15px;
+}
+.rightProp h5 span{
+    color: #0F298B;
+}
+.butProp button{
+ margin-top: 5px;
+    float: right;
+    clear: both;
+}
