@@ -10,10 +10,10 @@ The page appears as shown below and has the following feaures:
 <img src="./assets/images/FirstPage.png">
 -Other pages
 <img src="./assets/images/Products.png">
-## Technologies used
+## Technologies-used
 - HTML
 - CSS
-## Future implementations 
+## Future-implementations 
 - JavaScript
 - Search APIs
 ## Contribution
@@ -21,7 +21,7 @@ If you need to contribute to this project follow the steps below:<br>
 - Clone the repo(`git clone <repo link>`)
 - Create a branch where you will add changes (`git branch -b <branchname>`)
 - Add the changes (`git add .`)
-- Commit changes (`git commit -m"contributing changes`")
+- Commit changes (`git commit -m"contributing changes`)
 - Push your changes (`git push origin <branchname>`)
 
 
