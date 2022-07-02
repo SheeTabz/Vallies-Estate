@@ -160,6 +160,10 @@ nav li{
 .containerHead h1{
     color: #0F298B;
 }
+.containerHead p{
+    font-size: 22px;
+    padding-top: 10px;
+}
 .containerContent{
 
     display: flex;
@@ -234,4 +238,16 @@ nav li{
  margin-top: 5px;
     float: right;
     clear: both;
+}
+.customers{
+  
+    width: 350px;
+    height: fit-content;
+    padding: 20px 10px;
+}
+.customers p{
+    font-size: 18px;
+    color: black;
+    opacity: 0.6;
+    margin-top: 5px;
 }
