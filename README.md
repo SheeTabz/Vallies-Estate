@@ -72,7 +72,7 @@ If you need to contribute to this project follow the steps below:<br>
 ### Author
 [TABITHA MURIITHI](https://github.com/SheeTabz)
 
-## license information.
+## License information.
 ### MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
