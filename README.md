@@ -14,7 +14,8 @@ The page appears as shown below and has the following feaures:
 - Other pages<br>
 <img src="./assets/images/Products.png">
 
-## Technologies-used
+## Technologies used & Features
+- Well designed and responsive UI
 - HTML
 - CSS
 
@@ -70,6 +71,11 @@ If you need to contribute to this project follow the steps below:<br>
 ```
 ### Author
 [TABITHA MURIITHI](https://github.com/SheeTabz)
+
+## license information.
+### MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
 
 
 
