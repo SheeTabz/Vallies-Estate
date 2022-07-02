@@ -185,11 +185,11 @@ nav li{
     margin-top: 20px 0 30px;
 }
 .main2{
-    background-color: coral;
+   
     height: 70vh;
     justify-content: space-between;
 }
-.checked{
+.flexItems{
     width: 70%;
     display: flex;
     flex-direction: row;
@@ -203,4 +203,5 @@ nav li{
 .checked .fa{
     color: #0F298B;
 }
+/* Our Propertie section */
 
