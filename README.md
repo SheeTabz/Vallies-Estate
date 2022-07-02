@@ -7,6 +7,6 @@ Use the link provided to navigate to the Vallie's estate website.
 [Vallie's Estate](https://sheetabz.github.io/Vallies-Estate/)
 The page appears as shown below and has the following feaures:
 - This the landingpage
-<img src="">
+<img src="./assets/images/FirstPage.png">
 
 
