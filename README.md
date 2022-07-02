@@ -70,7 +70,7 @@ If you need to contribute to this project follow the steps below:<br>
 }
 ```
 ### Author
-[<img src="./assets/images/profile2.png" width="100px">](https://github.com/SheeTabz)
+[<img src="./assets/images/profile2.jpg" width="100px">](https://github.com/SheeTabz)
 [TABITHA MURIITHI](https://github.com/SheeTabz)
 
 ## License information.
