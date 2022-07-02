@@ -8,7 +8,7 @@ Use the link provided to navigate to the Vallie's estate website.
 The page appears as shown below and has the following feaures:
 - This the landingpage
 <img src="./assets/images/FirstPage.png">
--Other pages
+- Other pages
 <img src="./assets/images/Products.png">
 ## Technologies-used
 - HTML
