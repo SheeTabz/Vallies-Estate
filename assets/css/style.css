@@ -1,11 +1,6 @@
 /* Primary Colors: #2549D3, #0F298B, #FAFAFA,#FFFFFF
 Font Styles: Space Grotesk, Oleo Script */
-:root{
-    --background: #2549D3;
-    --button: #0F298B;
-    --body:#FAFAFA;
 
-}
 *{
     margin: 0;
     padding: 0;
@@ -16,11 +11,13 @@ body{
     font-family: 'Space Grotesk';
     font-size: 20px;
 }
+
 .firstpage{
     height: 100vh;
 }
+
+/* Styling the navigation bar */
 header{
-    /* background-color: burlywood; */
     width: 75%;
     margin: auto;
 
@@ -49,10 +46,7 @@ nav li{
     font-family: 'Oleo Script';
     font-size: 2rem;
 }
-/* .started {
-    background-color: #2549D3;
-    
-} */
+
  nav button{
     background-color: #2549D3; 
     border: none;
@@ -70,9 +64,8 @@ nav li{
    
 }
 
-/* first container */
+/*  The first page of the landing page */
 .main{
-    /* background-color: coral; */
     width: 75%;
     margin: auto;
     display: flex;
@@ -81,11 +74,6 @@ nav li{
 .main1{
     margin-top: 50px;
 }
-/* .content{
-    align-items: ;
-    
-} */
-
 .details h3{
     font-size: 42px;
     color: #0F298B;
@@ -107,6 +95,7 @@ nav li{
     font-weight: 600;
 }
 
+/* Styling The property details section, that is, location etc */
 .propertyDet{
     background-color:#FFFFFF;
     width: 70%;
@@ -144,6 +133,8 @@ nav li{
     font-size: 18px;
     font-weight: 600;
 }
+
+/* Styling Our products section */
 .container{
     height: 80vh;
     width: 70%;
@@ -188,8 +179,9 @@ nav li{
 .cardContent h2{
     margin-top: 20px 0 30px;
 }
+
+/* Styling Why choose us section */
 .main2{
-   
     height: 55vh;
     justify-content: space-between;
 }
@@ -207,10 +199,10 @@ nav li{
 .checked .fa{
     color: #0F298B;
 }
-/* Our Propertie section */
+
+
+/* Styling Our Propertie section */
 .cards2{
-    /* height: 40vh; */
-  
     margin-top: 30px;
 }
 .cardContent2{
@@ -255,7 +247,7 @@ nav li{
     padding: 6px 0 0;
 }
 
-/* footer section */
+/* Styling the footer section */
 footer{
     background-color: #0F298B;
     height: 40vh;
