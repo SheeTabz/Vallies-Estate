@@ -20,10 +20,18 @@ body{
 .firstpage{
     height: 100vh;
 }
+
+/* Styling the links */
 a{
     text-decoration: none;
     color: inherit;
 }
+li:hover{
+    color: #0F298B;
+    text-decoration: underline;
+   
+}
+
 /* Styling the navigation bar */
 header{
     width: 75%;
