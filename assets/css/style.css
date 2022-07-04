@@ -86,7 +86,7 @@ nav li{
     margin: auto;
     display: flex;
     flex-direction: row;  
-    flex-wrap: wrap; 
+     
 }
 .main1{
     margin-top: 50px;
