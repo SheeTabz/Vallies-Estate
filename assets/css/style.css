@@ -197,6 +197,10 @@ nav li{
    justify-content: center;
    border-radius: 15px; 
 }
+.cardContent1:hover{
+    box-shadow: 5px 5px 2em;
+    width: 350px;
+}
 
 .cardContent h2{
     margin-top: 20px 0 30px;
