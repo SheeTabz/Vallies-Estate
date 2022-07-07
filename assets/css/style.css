@@ -14,6 +14,8 @@ body{
     background-color: #FAFAFA;
     font-family: 'Space Grotesk';
     font-size: 20px;
+    width: 90%;
+    margin: auto;
     
 }
 
@@ -192,14 +194,13 @@ nav li{
    /* height: 40vh; */
    width: 300px;
    padding: 70px 30px 50px;
-   flex-direction: column;
-   text-align: center;
+  text-align: center;
    justify-content: center;
    border-radius: 15px; 
 }
-.cardContent1:hover{
+.card:hover{
     box-shadow: 5px 5px 2em;
-    width: 350px;
+    /* width: 350px; */
 }
 
 .cardContent h2{
@@ -273,6 +274,9 @@ nav li{
     padding: 6px 0 0;
 }
 
+button:hover{
+    box-shadow: 3px 5px 5px #0F298B;
+}
 /* Styling the footer section */
 footer{
     background-color: #0F298B;
@@ -306,3 +310,56 @@ footer{
    opacity: 0.8;
 }
 
+
+@media only screen and (max-width:1500px){
+    header{
+        
+    }
+    header{
+        width: 80%;
+    }
+    nav{
+        display: flex;
+        justify-content: space-around;
+    }
+   nav li{
+    font-size: 15px;
+   }
+   .main,footer{
+    width: 80%;   
+}
+.containerHead h3{
+    display: none;
+}
+.details h3{
+    font-size: 36px;
+    color: #0F298B;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.propertyDet{
+    
+    width: 80%;
+    margin: auto;
+    
+    height: 100px;
+    margin-bottom: 200px;  
+}
+.main2{
+    margin-right: 20px;
+    
+}
+ .image1 img{
+    display: flex;
+    justify-content: flex-start;
+
+}
+.container{
+    
+    width: 80%;
+    margin: auto;
+    margin-bottom: 200px;
+    
+ 
+}
+}
